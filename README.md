@@ -115,10 +115,18 @@ The system follows a layered architecture:
 
 ##  API Documentation
 
-All endpoints are documented using Postman:
+You can explore and test all available API endpoints using the Postman documentation:
 
- https://documenter.getpostman.com/view/40897736/2sAYk7SjT2
+👉 :contentReference[oaicite:0]{index=0} Documentation:  
+https://documenter.getpostman.com/view/41126830/2sBXqCR4pu
 
+### What’s included:
+
+* Complete list of endpoints  
+* Request & response examples  
+* Authentication flow (JWT)  
+* Required headers and parameters  
+* Booking, listings, and payment flows  
 ---
 
 ## ▶️ Run the Project
