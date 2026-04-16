@@ -117,7 +117,7 @@ The system follows a layered architecture:
 
 You can explore and test all available API endpoints using the Postman documentation:
 
-👉 :contentReference[oaicite:0]{index=0} Documentation:  
+👉 :
 https://documenter.getpostman.com/view/41126830/2sBXqCR4pu
 
 ### What’s included:
